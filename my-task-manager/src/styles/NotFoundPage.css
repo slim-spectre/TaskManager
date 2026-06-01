@@ -1,0 +1,34 @@
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+.not-found-container h1 {
+    font-size: 8rem;
+    margin: 0;
+    color: #ff4d4d;
+}
+
+.not-found-container img {
+    border-radius: 20px;
+    border: 5px solid  #5b59e4;
+}
+
+.home-link {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #6c5ce7;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.home-link:hover {
+    background: #a29bfe;
+}
