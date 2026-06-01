@@ -17,7 +17,7 @@ This application is a robust Task Manager featuring secure authentication, CRUD 
 
 ## 📂 Project Structure
 ```text
-src/
+my-task-manager(frontend)/
 ├── assets/          # Static assets
 ├── components/      # UI Components (Header, TaskItem, AddTask, etc.)
 ├── hoc/             # Protected Routes logic
@@ -28,3 +28,11 @@ src/
 ├── styles/          # Global & component styles
 └── utils/           # Helper functions
 
+TaskManager.Api(backend)/
+├── Data/              # DbContext, database configurations & schemas
+├── Endpoints/         # API controllers/minimal API handlers
+├── Migrations/        # Entity Framework database migration history
+├── Models/            # Domain entities and Data Transfer Objects (DTOs)
+├── Validation/        # Request validation logic (e.g., FluentValidation)
+├── appsettings.json   # Configuration (hidden)
+└── Program.cs         # Application entry point & service registration
