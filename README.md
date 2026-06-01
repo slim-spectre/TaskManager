@@ -24,3 +24,5 @@ src/
 ├── services/        # API calls
 ├── styles/          # Global & component styles
 └── utils/           # Helper functions
+
+<img width="1844" height="900" alt="image" src="https://github.com/user-attachments/assets/438c0d4f-1450-4730-8fb6-766fc28a4066" />
