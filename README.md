@@ -12,7 +12,7 @@ This application is a robust Task Manager featuring secure authentication, CRUD 
 * **API Handling:** Axios/Fetch
 * **State Management:** React Hooks (useState, useEffect)
 
-* <img width="1844" height="900" alt="image" src="https://github.com/user-attachments/assets/d347af94-89b8-4ce8-8e7f-3404ee53398d" />
+<img width="1844" height="900" alt="image" src="https://github.com/user-attachments/assets/d347af94-89b8-4ce8-8e7f-3404ee53398d" />
 <img width="1827" height="892" alt="image" src="https://github.com/user-attachments/assets/bfcdb215-d92d-4539-b545-902ccbb2bde1" />
 
 
